@@ -8,9 +8,9 @@
 //
 // Windows named pipe documentation: http://msdn.microsoft.com/en-us/library/windows/desktop/aa365780
 //
-// Note that the code lives at https://github.com/natefinch/npipe (v2 branch)
+// ~~Note that the code lives at https://github.com/natefinch/npipe (v2 branch)
 // but should be imported as gopkg.in/natefinch/npipe.v2 (the package name is
-// still npipe).
+// still npipe).~~
 //
 // npipe provides an interface based on stdlib's net package, with Dial, Listen,
 // and Accept functions, as well as associated implementations of net.Conn and
